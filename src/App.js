@@ -8,7 +8,7 @@ const App = () => {
   // Masukkan Header dan Contact ke dalam div App
   return (
     <div className="App">
-      <Header />
+
       <Contact data={contacts[0]} />
       <Contact data={contacts[1]} />
       <Contact data={contacts[2]} />
